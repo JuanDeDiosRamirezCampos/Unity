@@ -1,6 +1,6 @@
 # Creación de Video Juego
 <p align="center">
-    <img src="![image](https://github.com/user-attachments/assets/70156915-58dd-4bb3-83d2-4f08227663b5)" alt="Logo" width=1200 height=300>
+    <img src="![[image](https://github.com/user-attachments/assets/70156915-58dd-4bb3-83d2-4f08227663b5)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyEM1Y6U2eCej9n5y29UFrcg-5ltk6hpg7dw&s)" alt="Logo" width=1200 height=300>
 
   <p align="center">
     Short description
