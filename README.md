@@ -1,6 +1,6 @@
 # Creación de Video Juego
 <p align="center">
-    <img src="https://www.shutterstock.com/es/image-vector/pixel-game-win-screen-retro-8-2155227903" alt="Logo" width=1200 height=300>
+    <img src="https://www.crushpixel.com/big-static19/preview4/video-game-development-minimal-infographic-3584674.jpg" alt="Logo" width=1200 height=300>
 
   <p align="center">
     Short description
