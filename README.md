@@ -1,6 +1,6 @@
 # Creación de Video Juego
 <p align="center">
-    <img src="https://www.crushpixel.com/big-static19/preview4/video-game-development-minimal-infographic-3584674.jpg" alt="Logo" width=1200 height=300>
+    <img src="![image](https://github.com/user-attachments/assets/625d886a-42cb-4c42-b063-92f812ab0411)" alt="Logo" width=1200 height=300>
 
   <p align="center">
     Short description
