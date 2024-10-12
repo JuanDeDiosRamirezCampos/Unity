@@ -1,6 +1,6 @@
 # Creación de Video Juego
 <p align="center">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyEM1Y6U2eCej9n5y29UFrcg-5ltk6hpg7dw&s" alt="Logo" width=1200 height=300>
+    <img src="https://www.shutterstock.com/es/image-vector/pixel-game-win-screen-retro-8-2155227903" alt="Logo" width=1200 height=300>
 
   <p align="center">
     Short description
@@ -10,7 +10,6 @@
     <a href="https://reponame/issues/new?template=feature.md&labels=feature">Request feature</a>
   </p>
 </p>
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyEM1Y6U2eCej9n5y29UFrcg-5ltk6hpg7dw&s
 
 ## Contenido
 
