@@ -13,9 +13,9 @@
 
 ## Contenido
 
-- [Prototipo01](#https://github.com/JuanDeDiosRamirezCampos/Unity/tree/main/Prototipo01)
-- [Código Fuente](#código-fuente)
-- [Planificación](#planificación)
+- [Prototipo01](https://github.com/JuanDeDiosRamirezCampos/Unity/tree/main/Prototipo01)
+- [Prototipo02](https://github.com/JuanDeDiosRamirezCampos/Unity/tree/main/Prototipo02)
+- [Prototipo03](https://github.com/JuanDeDiosRamirezCampos/Unity/tree/main/Prototipo03)
 - [Autores](#autores)
 - [Copyright](#copyright)
 
