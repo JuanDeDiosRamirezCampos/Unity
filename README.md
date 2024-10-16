@@ -13,7 +13,7 @@
 
 ## Contenido
 
-- [Introducción](#https://github.com/JuanDeDiosRamirezCampos/Unity/tree/main/Prototipo01)
+- [Prototipo01](#https://github.com/JuanDeDiosRamirezCampos/Unity/tree/main/Prototipo01)
 - [Código Fuente](#código-fuente)
 - [Planificación](#planificación)
 - [Autores](#autores)
