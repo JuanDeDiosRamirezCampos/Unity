@@ -20,7 +20,7 @@
 
 ## Introducción
 
-# **Racing for the Treasure**
+# **CartToon-Race**
 
 ### **Descripción del Proyecto**
 "Racing for the Treasure" es un videojuego de carreras en 3D con elementos de combate y estrategia. El jugador debe enfrentarse a oponentes en circuitos llenos de desafíos para ganar el torneo y descubrir el secreto del Tesoro.
